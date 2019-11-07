@@ -1,3 +1,4 @@
 <?php
 
-var_dump("pspsps");
+$val = 1;
+var_dump($val === true);
